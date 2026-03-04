@@ -6,5 +6,6 @@ Passionné d'électronique et de programmation
 Mes hobbies
 🍳 Cuisine  
 ⚽ Sports
-Localisation : Paris, France  
+
+-Paris, France  
 Email : [Aryankumar-2007@outlook.com](mailto:Aryankumar-2007@outlook.com)
